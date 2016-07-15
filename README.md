@@ -8,5 +8,4 @@ Follow the below steps for building the perf tool.
 3. #cp perf /usr/bin/
 4. You can test whether perf is installed properly or not, using the following command
 5. #perf list
-
     You may face problems in installing the dependency "libunwind-dev" (step 1). Try to install it manually downloading the right one from the repository.
