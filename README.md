@@ -1,4 +1,4 @@
-# Perf-Installation-For-odroid-Xu4
+# Perf-Installation-For-odroid-Xu4-#could access both A15 and A7 simultaneously
 Follow the below steps for building the perf tool.
 
 1. #sudo apt-get install flex bison libdw-dev libnewt-dev binutils-dev libaudit-dev libgtk2.0-dev libperl-dev libpython-dev libunwind-dev
